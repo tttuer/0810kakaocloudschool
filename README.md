@@ -1,2 +1,2 @@
 # 0810kakaocloudschool
-master
+develop
